@@ -1,0 +1,15 @@
+E:\KursovayaOAIP\kursachSabadashOAIP\kursachSabadashOAIP\bin\Debug\net6.0\kursachSabadashOAIP.exe
+E:\KursovayaOAIP\kursachSabadashOAIP\kursachSabadashOAIP\bin\Debug\net6.0\kursachSabadashOAIP.deps.json
+E:\KursovayaOAIP\kursachSabadashOAIP\kursachSabadashOAIP\bin\Debug\net6.0\kursachSabadashOAIP.runtimeconfig.json
+E:\KursovayaOAIP\kursachSabadashOAIP\kursachSabadashOAIP\bin\Debug\net6.0\kursachSabadashOAIP.dll
+E:\KursovayaOAIP\kursachSabadashOAIP\kursachSabadashOAIP\bin\Debug\net6.0\kursachSabadashOAIP.pdb
+E:\KursovayaOAIP\kursachSabadashOAIP\kursachSabadashOAIP\obj\Debug\net6.0\kursachSabadashOAIP.csproj.AssemblyReference.cache
+E:\KursovayaOAIP\kursachSabadashOAIP\kursachSabadashOAIP\obj\Debug\net6.0\kursachSabadashOAIP.GeneratedMSBuildEditorConfig.editorconfig
+E:\KursovayaOAIP\kursachSabadashOAIP\kursachSabadashOAIP\obj\Debug\net6.0\kursachSabadashOAIP.AssemblyInfoInputs.cache
+E:\KursovayaOAIP\kursachSabadashOAIP\kursachSabadashOAIP\obj\Debug\net6.0\kursachSabadashOAIP.AssemblyInfo.cs
+E:\KursovayaOAIP\kursachSabadashOAIP\kursachSabadashOAIP\obj\Debug\net6.0\kursachSabadashOAIP.csproj.CoreCompileInputs.cache
+E:\KursovayaOAIP\kursachSabadashOAIP\kursachSabadashOAIP\obj\Debug\net6.0\kursachSabadashOAIP.dll
+E:\KursovayaOAIP\kursachSabadashOAIP\kursachSabadashOAIP\obj\Debug\net6.0\refint\kursachSabadashOAIP.dll
+E:\KursovayaOAIP\kursachSabadashOAIP\kursachSabadashOAIP\obj\Debug\net6.0\kursachSabadashOAIP.pdb
+E:\KursovayaOAIP\kursachSabadashOAIP\kursachSabadashOAIP\obj\Debug\net6.0\kursachSabadashOAIP.genruntimeconfig.cache
+E:\KursovayaOAIP\kursachSabadashOAIP\kursachSabadashOAIP\obj\Debug\net6.0\ref\kursachSabadashOAIP.dll
